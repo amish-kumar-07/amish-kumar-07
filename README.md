@@ -75,7 +75,7 @@
 | --------------------------------- | ----------------------------------------------------- | -------------------------- | ---------------------------------------------- |
 | 🧠 **Bhagavad Gita Bot**          | Spiritual Q&A assistant based on AI/LLM               | Node.js, OpenAI, Express   | [GitHub](https://github.com/amish-kumar-07/New_Mini_Project) |
 | 🌍 **Project Management App**     | AR-based platform for virtual campus experiences      | React, AR.js, Tailwind     | [Live Demo](https://product-management-web-app-nu.vercel.app) |
-| 🧑‍🏫 **Notification API Service** | AI assistant for college admission FAQs               | Python, Flask, NLP         | [GitHub](https://github.com/amish-kumar-07/PepsalesAssi) |
+| 🧑‍🏫 **Notification API Service** | AI assistant for college admission FAQs               | Next.js, Node, RabbitMQ         | [GitHub](https://github.com/amish-kumar-07/PepsalesAssi) |
 | 📊 **Social Media Analytics App** | Real-time insights from social media posts            | React, PostgreSQL, Node.js | [GitHub](https://github.com/amish-kumar-07/social-analytics-dashboard) |
 
 </div>
@@ -145,4 +145,3 @@ mindmap
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+😊;Let’s+build+something+impactful+🚀;Open+to+Internships+and+Collaborations!+💼" />
 </div>
-```
