@@ -1,4 +1,3 @@
-````markdown
 # 👨‍💻 Amish Kumar
 
 <div align="center">
