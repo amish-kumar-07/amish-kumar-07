@@ -67,18 +67,26 @@
 
 ---
 
+Here’s your updated **🚀 Featured Projects** section with improved clarity and consistency, and aligned descriptions for each project:
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project                           | Description                                           | Tech Stack                 | Links                                          |
-| --------------------------------- | ----------------------------------------------------- | -------------------------- | ---------------------------------------------- |
-| 🧠 **Bhagavad Gita Bot**          | Spiritual Q&A assistant based on AI/LLM               | Node.js, OpenAI, Express   | [GitHub](https://github.com/amish-kumar-07/New_Mini_Project) |
-| 🌍 **Project Management App**     | AR-based platform for virtual campus experiences      | React, AR.js, Tailwind     | [Live Demo](https://product-management-web-app-nu.vercel.app) |
-| 🧑‍🏫 **Notification API Service** | AI assistant for college admission FAQs               | Next.js, Node, RabbitMQ         | [GitHub](https://github.com/amish-kumar-07/PepsalesAssi) |
-| 📊 **Social Media Analytics App** | Real-time insights from social media posts            | React, PostgreSQL, Node.js | [GitHub](https://github.com/amish-kumar-07/social-analytics-dashboard) |
+| Project                            | Description                                                                        | Tech Stack                   | Links                                                         |
+| ---------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------- |
+| 🧠 **Bhagavad Gita Bot**           | An AI-powered spiritual assistant that answers Gita-based questions using LLMs     | Node.js, Express, OpenAI     | [GitHub](https://github.com/amish-kumar-07/New_Mini_Project)  |
+| 🌍 **Project Management App**      | AR-enabled platform to explore virtual college campuses and interact with faculty  | React, Neon, Tailwind CSS    | [Live Demo](https://product-management-web-app-nu.vercel.app) |
+| 🧑‍🏫 **Notification API Service** | A smart API assistant for automating college admission and FAQ responses           | Next.js, Node.js, RabbitMQ   | [GitHub](https://github.com/amish-kumar-07/PepsalesAssi)      |
+| 📊 **Image Finder App**            | A sleek web app to search and browse high-quality stock images with authentication | Next.js, PostgreSQL, Auth.js | [Live](https://image-finder-ecru-phi.vercel.app)              |
 
 </div>
+
+---
+
+Let me know if you'd like to include images, badges, or align this with a portfolio or resume.
 
 ---
 
