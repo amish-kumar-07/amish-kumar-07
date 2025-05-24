@@ -67,8 +67,6 @@
 
 ---
 
-Here’s your updated **🚀 Featured Projects** section with improved clarity and consistency, and aligned descriptions for each project:
-
 ---
 
 ## 🚀 Featured Projects
@@ -78,8 +76,8 @@ Here’s your updated **🚀 Featured Projects** section with improved clarity a
 | Project                            | Description                                                                                                                                            | Tech Stack                   | Links                                                         |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------- |
 | 🧠 **Bhagavad Gita Bot**           | An AI-powered spiritual assistant that answers Gita-based questions using LLMs                                                                         | Node.js, Express, OpenAI     | [GitHub](https://github.com/amish-kumar-07/New_Mini_Project)  |
-| 🌍 **Project Management App**      | A robust notification system supporting in-app, email, and SMS notifications. Built with Node.js, Express, Drizzle ORM, RabbitMQ, Twilio, and MailSender for scalable asynchronous user notifications. | React, Neon, Tailwind CSS    | [Live](https://product-management-web-app-nu.vercel.app)      |
-| 🧑‍🏫 **Notification API Service** | An API assistant for automating college admission and FAQ responses                                                                                   | Next.js, Node.js, RabbitMQ   | [GitHub](https://github.com/amish-kumar-07/PepsalesAssi)      |
+| 🌍 **Project Management App**      |A sleek, full-stack product management dashboard built with Next.js, Tailwind CSS, Drizzle ORM, and Radix UI. Empower your workflow with product CRUD,JWT authentication, and seamless inventory tracking. | React, Neon, Tailwind CSS    | [Live](https://product-management-web-app-nu.vercel.app)      |
+| 🧑‍🏫 **Notification API Service** | A robust notification system supporting in-app, email, and SMS notifications. Built with Node.js, Express, Drizzle ORM, RabbitMQ, Twilio, and MailSender for scalable asynchronous user notifications.                                                                                  | Next.js, Node.js, RabbitMQ   | [GitHub](https://github.com/amish-kumar-07/PepsalesAssi)      |
 | 📊 **Image Finder App**            | A sleek web app to search and browse high-quality images with authentication                                                                           | Next.js, PostgreSQL, Auth.js | [Live](https://image-finder-ecru-phi.vercel.app)              |
 
 </div>
@@ -87,7 +85,6 @@ Here’s your updated **🚀 Featured Projects** section with improved clarity a
 
 ---
 
-Let me know if you'd like to include images, badges, or align this with a portfolio or resume.
 
 ---
 
