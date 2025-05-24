@@ -75,14 +75,15 @@ Here’s your updated **🚀 Featured Projects** section with improved clarity a
 
 <div align="center">
 
-| Project                            | Description                                                                        | Tech Stack                   | Links                                                         |
-| ---------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------- |
-| 🧠 **Bhagavad Gita Bot**           | An AI-powered spiritual assistant that answers Gita-based questions using LLMs     | Node.js, Express, OpenAI     | [GitHub](https://github.com/amish-kumar-07/New_Mini_Project)  |
-| 🌍 **Project Management App**      | AR-enabled platform to explore virtual college campuses and interact with faculty  | React, Neon, Tailwind CSS    | [Live Demo](https://product-management-web-app-nu.vercel.app) |
-| 🧑‍🏫 **Notification API Service** | A smart API assistant for automating college admission and FAQ responses           | Next.js, Node.js, RabbitMQ   | [GitHub](https://github.com/amish-kumar-07/PepsalesAssi)      |
-| 📊 **Image Finder App**            | A sleek web app to search and browse high-quality stock images with authentication | Next.js, PostgreSQL, Auth.js | [Live](https://image-finder-ecru-phi.vercel.app)              |
+| Project                            | Description                                                                                                                                            | Tech Stack                   | Links                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------- |
+| 🧠 **Bhagavad Gita Bot**           | An AI-powered spiritual assistant that answers Gita-based questions using LLMs                                                                         | Node.js, Express, OpenAI     | [GitHub](https://github.com/amish-kumar-07/New_Mini_Project)  |
+| 🌍 **Project Management App**      | A robust notification system supporting in-app, email, and SMS notifications. Built with Node.js, Express, Drizzle ORM, RabbitMQ, Twilio, and MailSender for scalable asynchronous user notifications. | React, Neon, Tailwind CSS    | [Live](https://product-management-web-app-nu.vercel.app)      |
+| 🧑‍🏫 **Notification API Service** | An API assistant for automating college admission and FAQ responses                                                                                   | Next.js, Node.js, RabbitMQ   | [GitHub](https://github.com/amish-kumar-07/PepsalesAssi)      |
+| 📊 **Image Finder App**            | A sleek web app to search and browse high-quality images with authentication                                                                           | Next.js, PostgreSQL, Auth.js | [Live](https://image-finder-ecru-phi.vercel.app)              |
 
 </div>
+
 
 ---
 
